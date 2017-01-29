@@ -2,6 +2,7 @@
 
 var gdal = require('gdal');
 
+
 /**
 * tool for transforming spatial reference of footprint in wellknown
 * text format
