@@ -36,7 +36,7 @@
     "s3": "^4.4.0",
     "turf-bbox-polygon": "^1.0.1",
     "wellknown": "^0.3.1",
-    "gdal": "0.9.3"
+    "gdal": "~0.9.3"
   },
   "devDependencies": {
     "apidoc": "^0.13.1",
